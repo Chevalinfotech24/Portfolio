@@ -544,3 +544,12 @@ article p {
     height: 100%;
     border: none;
 }
+
+#founder-logo {
+    width: 160px;
+    height: auto;
+    margin-left: 10px;
+    cursor: pointer;
+    vertical-align: middle;
+    display: inline-block;
+}
